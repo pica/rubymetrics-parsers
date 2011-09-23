@@ -1,4 +1,0 @@
-RubyMetrics parsers (adapted from the RubyMetrics plugin for Hudson CI)
-================================
-
-Provides ability to parse ruby metric reports including Rcov, Rails stats, Rails notes and Flog.
